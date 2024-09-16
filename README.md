@@ -1,5 +1,5 @@
 # Lexikon
 
-|Ord  |Beskrivning  |
+|Ord  |Beskrivning / Betydelse|
 |:--|:--|
-|Empirisk|blablabla|
+|Empirisk|Grundad på erfarenheten.|
