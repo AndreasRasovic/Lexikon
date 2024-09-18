@@ -1,6 +1,6 @@
 # Specialisering
 
-Är en av tre utvecklingstrender inom ekonomiskt bistånd. Specialisering inom ekonomiskt bistånd innebär att tjänster och stöd blir mer riktade och specifika för att bättre möta individuella behov. Detta kan innebära att olika former av stöd och tjänster utvecklas för att hantera specifika problemområden, såsom missbruk, psykisk hälsa, arbetslöshet, och så vidare.
+Är en av tre utvecklingstrender ([aktivering](./Aktivering.md), [urholkning](./Urholkning.md)) inom ekonomiskt bistånd. Specialisering inom ekonomiskt bistånd innebär att tjänster och stöd blir mer riktade och specifika för att bättre möta individuella behov. Detta kan innebära att olika former av stöd och tjänster utvecklas för att hantera specifika problemområden, såsom missbruk, psykisk hälsa, arbetslöshet, och så vidare.
 
 ## Betydelsen av specialisering
 
