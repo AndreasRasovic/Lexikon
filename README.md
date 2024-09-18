@@ -4,7 +4,7 @@
 |:--|:--|
 |(Är-/Vara-) till men|Vara dåligt.|
 |Adekvat|Lämplig, passande, riktig.|
-|Aktivering|<a href="./Aktivering.md" target="_blank">Läs här</a>|
+|Aktivering|[Läs här](./Aktivering.md)|
 |Anomali|En avvikelse från det normala.|
 |Divergens|Spridning åt olika håll.|
 |Emancipation|Frigörelse från ett tillstånd av omyndighet, underordnande eller rättslöshet och erhållande av fri självbestämningsrätt och jämlikhet med andra.|
@@ -18,6 +18,6 @@
 |Nepotism|Nepotism är en form av vänskapskorruption. Det innebär favorisering av släktingar och vänner i den offentliga eller privata sfären och som skapar en nackdel för andra personer.|
 |Paternalism|Åsyftar en relation mellan en över- och en underordnad, som präglas av en beskyddande (och därmed gärna passiverande) attityd från den starka partens sida. Paternalism bygger på antagandet att en person med makt (till exempel en förälder eller en förmyndare) ser till de beskyddades väl och är mer förmögen att främja detta än de beskyddade själva.|
 |Restriktiv(-itet)|Måttfullhet, sparsamhet.|
-|Specialisering|<a href="./Specialisering.md" target="_blank">Läs här</a>|
-|Urholkning|<a href="./Urholkning.md" target="_blank">Läs här</a>|
+|Specialisering|[Läs här](./Specialisering.md)|
+|Urholkning|[Läs här](./Urholkning.md)|
 |Vederbörande|Respektive, berörd, motsvarande.|
