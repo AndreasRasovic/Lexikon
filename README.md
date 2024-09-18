@@ -7,7 +7,7 @@
 |Anomali|En avvikelse från det normala.|
 |Divergens|Spridning åt olika håll.|
 |Emancipation|Frigörelse från ett tillstånd av omyndighet, underordnande eller rättslöshet och erhållande av fri självbestämningsrätt och jämlikhet med andra.|
-|Empirisk|Grundad på erfarenheten.|
+|Empirisk|Grundad på erfarenhet.|
 |Explicit|Uttryckligt, tydlig, utpräglad.|
 |Komparativ|Jämförande. (adj.) används för att jämföra skillnader mellan två objekt.|
 |Konvertibel|Möjlig att konvertera, utbytbar, omväxlingsbar, omvandlingsbar.|
