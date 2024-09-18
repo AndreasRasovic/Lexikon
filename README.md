@@ -14,6 +14,7 @@
 |Kvantitativ|Mätbar, uppskattningsbar.|
 |Kvasiexperiment|En studiedesign där försöksdeltagarna inte har delats in slumpmässigt i en försöks- och jämförelsegrupp.|
 |Metodologisk|Metodisk, systematisk.|
+|Nepotism|Nepotism är en form av vänskapskorruption. Det innebär favorisering av släktingar och vänner i den offentliga eller privata sfären och som skapar en nackdel för andra personer.|
 |Paternalism|Åsyftar en relation mellan en över- och en underordnad, som präglas av en beskyddande (och därmed gärna passiverande) attityd från den starka partens sida. Paternalism bygger på antagandet att en person med makt (till exempel en förälder eller en förmyndare) ser till de beskyddades väl och är mer förmögen att främja detta än de beskyddade själva.|
 |Restriktiv(-itet)|Måttfullhet, sparsamhet.|
 |Vederbörande|Respektive, berörd, motsvarande.|
